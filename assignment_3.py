@@ -1,3 +1,4 @@
+# Q : 1
 class palindrom_or_balanced:
     def __init__(self):
         self.stack = []
@@ -31,3 +32,4 @@ class palindrom_or_balanced:
                     return False  
 
         return len(self.stack) == 0  
+    
