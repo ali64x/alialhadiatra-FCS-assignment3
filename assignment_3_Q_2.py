@@ -1,3 +1,4 @@
+# Q : 2
 class Car:
     def __init__(self, make, color, plate_number):
         self.make = make
